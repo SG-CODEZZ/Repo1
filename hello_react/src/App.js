@@ -7,11 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< HEAD
           Working on Master
-=======
-          Working on Branch 1
->>>>>>> hello-react-app-branch1
         </p>
         <a
           className="App-link"
@@ -19,11 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< HEAD
           Learn React and let others react
-=======
-          Learn React in Branch 1
->>>>>>> hello-react-app-branch1
         </a>
       </header>
     </div>
